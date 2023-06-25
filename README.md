@@ -6,4 +6,4 @@ website design
 <h2>Websitesi</h2>
 
 
-![] (Websitesi.gif)
+![](Websitesi.gif)
